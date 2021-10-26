@@ -1,13 +1,13 @@
 
-import Casa from '../components/Casa'
+
+import Row from '../components/row'
+import Tabuleiro from '../components/Tabuleiro'
 import styles from '../styles/Home.module.css'
 
 export default function Home() {
   return (
     <div className={styles.container}>
-      <Casa/>
-      <Casa/>
-      <Casa/>
+      <Tabuleiro />
 
     </div>
   )
