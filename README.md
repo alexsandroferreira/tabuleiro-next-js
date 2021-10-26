@@ -1,1 +1,3 @@
-## Exercicio criação de um tabuleiro de xadrez com biblioteca next-js
+## Exercicio redenrização de um tabuleiro de xadrez utilizando há biblioteca next-js
+
+Ideia é representar um tabuleiro xadrez, usando componetização para criar as casas.
